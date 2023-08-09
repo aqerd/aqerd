@@ -16,5 +16,8 @@
   <a href="https://www.figma.com/@aqerd">
     <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge"/>
   </a>
+  <a href="https://www.linkedin.com/mwlite/in/ruslan-suleymanov-868109254">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Figma Badge"/>
+  </a>
 </div>
 <h4 align="center"><a href="https://aqerd.bio.link" target="_blank">Other links</a></h4>
