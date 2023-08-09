@@ -3,12 +3,12 @@
 <h3 align="center">UI/UX Designer & Python developer</h4>
 <h4 align="center">:round_pushpin: Now in Yekaterinburg, Russia</h4>
 <h4 align="center">Studying at the Ural Federal University (UrFU)</h4>
-<div id="badges">
+<div id="badges" align="center">
+  <a href="https://t.me/ruslansuleymanov">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
   <a href="https://www.behance.net/ruslansuleymanov">
     <img src="https://img.shields.io/badge/Behance-black?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"/>
-  </a>
-  <a href="t.me/ruslansuleymanov">
-    <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=blue" alt="Telegram Badge"/>
   </a>
   <a href="https://twitter.com/aqeeerd">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
