@@ -13,5 +13,8 @@
   <a href="https://twitter.com/aqeeerd">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://www.figma.com/@aqerd">
+    <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge"/>
+  </a>
 </div>
 <h4 align="center"><a href="https://aqerd.bio.link" target="_blank">Other links</a></h4>
