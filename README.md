@@ -1,9 +1,9 @@
-<h1 align="center">Hi, my name is Ruslan</h1>
-<h3 align="center">ALL MY PROJECTS ARE INACTIVE, DON'T TEST THEM</h3>
-<h4 align="center">UI/UX Designer & Python developer</h4>
-<h4 align="center">:round_pushpin: Yekaterinburg, Russia</h4>
-<h4 align="center"> Ural Federal University (UrFU)</h4>
-<h4 align="center">I speak Russian and English</h4>
+<h1>Hi, my name is Ruslan</h1>
+<h3>ALL MY PROJECTS ARE INACTIVE, DON'T TEST THEM</h3>
+<h4>UI/UX Designer & Python developer</h4>
+<h4>:round_pushpin: Yekaterinburg, Russia</h4>
+<h4> Ural Federal University (UrFU)</h4>
+<h4>I speak Russian and English</h4>
 
 <div id="badges" align="center">
   <a href="https://t.me/ruslansuleymanov">
