@@ -2,8 +2,8 @@
 <h3 align="center"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"></h3>
 <h3 align="center">ALL MY PROJECTS CURRENTLY DOESN'T WORK</h3>
 <h4 align="center">UI/UX Designer & Python developer</h4>
-<h4 align="center">:round_pushpin: Now in Yekaterinburg, Russia</h4>
-<h4 align="center">Studying at the Ural Federal University (UrFU)</h4>
+<h4 align="center">:round_pushpin: Yekaterinburg, Russia</h4>
+<h4 align="center"> Ural Federal University (UrFU)</h4>
 <h4 align="center">I speak Russian and English</h4>
 <div id="badges" align="center">
   <a href="https://t.me/ruslansuleymanov">
