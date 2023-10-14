@@ -1,5 +1,5 @@
 <h1 align="center">Hi, my name is Ruslan</h1>
-<h3 align="center">ALL MY PROJECTS CURRENTLY DOESN'T WORK</h3>
+<h3 align="center">ALL MY PROJECTS ARE INACTIVE, DON'T TEST THEM</h3>
 <h4 align="center">UI/UX Designer & Python developer</h4>
 <h4 align="center">:round_pushpin: Yekaterinburg, Russia</h4>
 <h4 align="center"> Ural Federal University (UrFU)</h4>
