@@ -1,5 +1,4 @@
 <h1 align="center">Hi, my name is Ruslan</h1>
-<h3 align="center"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"></h3>
 <h3 align="center">ALL MY PROJECTS CURRENTLY DOESN'T WORK</h3>
 <h4 align="center">UI/UX Designer & Python developer</h4>
 <h4 align="center">:round_pushpin: Yekaterinburg, Russia</h4>
