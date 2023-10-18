@@ -1,7 +1,7 @@
 <h1>Hi, my name is Ruslan</h1>
 <h3>ALL MY PROJECTS ARE INACTIVE, DON'T TEST THEM</h3>
 <h4>UI/UX Designer & Python developer</h4>
-<h4>:round_pushpin: Yekaterinburg, Russia</h4>
+<h4>Yekaterinburg, Russia</h4>
 <h4> Ural Federal University</h4>
 <h4>I speak Russian and English</h4>
 
