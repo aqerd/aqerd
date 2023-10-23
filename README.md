@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Behance-black?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"/>
   </a>
   <a href="https://twitter.com/aqeeerd">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter/X-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://www.figma.com/@aqerd">
     <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge"/>
