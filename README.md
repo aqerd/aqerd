@@ -2,7 +2,7 @@
 <h4>UI/UX Designer & Python developer</h4>
 <h4>Living in Yekaterinburg, Russia</h4>
 <h4>Studying at Departament of Mathematics, Machanics and Computer Science (MathMech) at Ural Federal University (UrFU)</h4>
-<h4>I speak Russian and English</h4>
+<h4>Speaking Russian and English</h4>
 
 <div id="badges">
   <a href="https://t.me/ruslansuleymanov">
