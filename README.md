@@ -27,7 +27,7 @@
   </a>
 </div>
 
-<h3>Languages i know</h3>
+<h3>Languages I know</h3>
 
 ![Python](https://img.shields.io/badge/python-FFDD4E?style=for-the-badge&logo=python&logoColor=black)
 ![C](https://img.shields.io/badge/c-3848AA.svg?style=for-the-badge&logo=c&logoColor=white)
