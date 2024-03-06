@@ -3,7 +3,7 @@
 <h3>About me</h3>
 
 - 🪩 UI/UX Designer 
-- 🖥 Python developer
+- 🖥 Python and C++ developer
 - 🌍 Living in Yekaterinburg, Russia
 - 👨‍💻 18 years old
 - 🏫 Studying at Departament of Mathematics, Mechanics and Computer Science (MathMech) at Ural Federal University (UrFU)
