@@ -20,8 +20,8 @@
   <a href="https://www.figma.com/@aqerd">
     <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge"/>
   </a>
-  <a href="https://twitter.com/aqeeerd">
-    <img src="https://img.shields.io/badge/Twitter-00A1F6?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://twitter.com/aqerdrs">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://www.linkedin.com/mwlite/in/ruslan-suleymanov-868109254">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
