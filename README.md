@@ -34,11 +34,14 @@
 ![C](https://img.shields.io/badge/c-3848AA.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-3937AA.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F0DB4F)
+
+<h3>Languages I practice</h3>
+
+![Java](https://img.shields.io/badge/java-ff0000.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-black.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-0078D6.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Batch](https://img.shields.io/badge/Windows%20Terminal-0078D6.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Shell](https://img.shields.io/badge/shell-293036.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Java](https://img.shields.io/badge/java-ff0000.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 <h5><a href="https://aqerd.bio.link" target="_blank">Other links</a></h5>
