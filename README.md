@@ -7,7 +7,8 @@
 - 🏫 Studying at Departament of Mathematics, Mechanics and Computer Science (MathMech) at Ural Federal University (UrFU)
 - 💼 Working at Doubletapp as Prompt Engineer
 - Speaking Russian ![image](https://github.com/aqerd/aqerd/assets/87182605/37ef7b24-0b8e-4d25-bf12-0a97e7fa1dc2) and English ![image](https://github.com/aqerd/aqerd/assets/87182605/08dbb234-f22d-4626-97b3-1c8d34a68318)
-</h4>
+
+
 
 <h3>My socials</h3>
 <div id="badges">
