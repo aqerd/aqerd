@@ -2,12 +2,12 @@
 
 <h3>About me</h3>
 
-- 🪩 Designer 
-- 🖥 Developer
+- 🪩 Developer & Designer, 18 years old 
 - 🌍 Living in Yekaterinburg, Russia
-- 👨‍💻 18 years old
 - 🏫 Studying at Departament of Mathematics, Mechanics and Computer Science (MathMech) at Ural Federal University (UrFU)
-- Speaking Russian ![image](https://github.com/aqerd/aqerd/assets/87182605/37ef7b24-0b8e-4d25-bf12-0a97e7fa1dc2) and English ![image](https://github.com/aqerd/aqerd/assets/87182605/08dbb234-f22d-4626-97b3-1c8d34a68318)</h4>
+- 💼 Working at Doubletapp as Prompt Engineer
+- Speaking Russian ![image](https://github.com/aqerd/aqerd/assets/87182605/37ef7b24-0b8e-4d25-bf12-0a97e7fa1dc2) and English ![image](https://github.com/aqerd/aqerd/assets/87182605/08dbb234-f22d-4626-97b3-1c8d34a68318)
+</h4>
 
 <h3>My socials</h3>
 <div id="badges">
@@ -23,7 +23,7 @@
   <a href="https://twitter.com/aqerdrs">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://www.linkedin.com/mwlite/in/ruslan-suleymanov-868109254">
+  <a href="https://www.linkedin.com/mwlite/in/ruslan-suleymanov">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://leetcode.com/u/ruslansuleymanov/">
