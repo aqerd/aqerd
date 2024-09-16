@@ -2,7 +2,7 @@
 
 <h3>About me</h3>
 
-- 🪩 Developer & Designer, 18 years old 
+- 🪩 Developer & Designer, 18 years old
 - 🌍 Living in Yekaterinburg, Russia
 - 🏫 Studying at Departament of Mathematics, Mechanics and Computer Science (MathMech) at Ural Federal University (UrFU)
 - 💼 Working at Doubletapp as Prompt Engineer
