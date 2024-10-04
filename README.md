@@ -1,6 +1,6 @@
-<h1>Hi, I'm Ruslan</h1>
+# Hi, I'm Ruslan
 
-<h3>About me</h3>
+### About me
 
 - 🪩 Developer & Designer, 18 years old
 - 🌍 Living in Yekaterinburg, Russia
@@ -10,26 +10,26 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aqerd&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>My socials</h3>
+### My socials
 <div id="badges">
   <a href="https://t.me/ruslansuleymanov">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://www.figma.com/@aqerd">
-    <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge"/>
-  </a>
   <a href="https://www.behance.net/ruslansuleymanov">
     <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"/>
-  </a>
-  <a href="https://twitter.com/aqerdrs">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://www.linkedin.com/mwlite/in/ruslan-suleymanov">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://leetcode.com/u/ruslansuleymanov/">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode Badge"/>
+  <a href="https://www.figma.com/@aqerd">
+    <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge"/>
   </a>
+  <a href="https://twitter.com/aqerdrs">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter Badge"/>
+  </a>
+<!--   <a href="https://leetcode.com/u/ruslansuleymanov/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode Badge"/>
+  </a> -->
 </div>
 
 <h3>Languages</h3>
