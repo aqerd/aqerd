@@ -4,11 +4,12 @@
 
 - 🪩 Developer & Designer, 18 years old
 - 🌍 Living in Yekaterinburg, Russia
-- 🏫 Studying at Departament of Mathematics, Mechanics and Computer Science (MathMech) at Ural Federal University (UrFU)
+- 🏫 Studying at Institute of Mathematics and Computer Science at Ural Federal University (IMCS UrFU)
 - 💼 Working at Doubletapp as Prompt Engineer
 - Speaking Russian ![image](https://github.com/aqerd/aqerd/assets/87182605/37ef7b24-0b8e-4d25-bf12-0a97e7fa1dc2) and English ![image](https://github.com/aqerd/aqerd/assets/87182605/08dbb234-f22d-4626-97b3-1c8d34a68318)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aqerd&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aqerd&layout=pie&theme=transparent) <br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aqerd&show_icons=true&theme=transparent)
 
 ### My socials
 <div id="badges">
