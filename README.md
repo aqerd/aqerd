@@ -6,8 +6,9 @@
 - 🏫 Studying at Institute of Mathematics and Computer Science at Ural Federal University (IMCS UrFU)
 - 💼 Working at Fermatix AI as Prompt Engineer
 - Speaking Russian and English
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aqerd&layout=compact&theme=transparent) 
+   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aqerd&show_icons=true&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aqerd&layout=compact&theme=transparent)
 
 ### My socials
 <div id="badges">
