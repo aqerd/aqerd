@@ -6,9 +6,14 @@
 - 🏫 Studying at Institute of Mathematics and Computer Science at Ural Federal University (IMCS UrFU)
 - 💼 Working at Fermatix AI as Prompt Engineer
 - Speaking Russian and English
-   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aqerd&show_icons=true&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aqerd&layout=compact&theme=transparent)
+
+### Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aqerd&show_icons=true&number_format=long&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&title_color=00f5d3&text_color=ffffff&icon_color=00f5d3&border_color=00f5d3&bg_color=050505&border_radius=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aqerd&layout=compact&langs_count=20&title_color=00f5d3&text_color=ffffff&icon_color=00f5d3&border_color=00f5d3&bg_color=050505&border_radius=10)
+
+### Repositories
+[![Filmbot](https://github-readme-stats.vercel.app/api/pin/?username=aqerd&repo=filmbot&title_color=00f5d3&text_color=ffffff&icon_color=00f5d3&border_color=00f5d3&bg_color=050505&border_radius=10)](https://github.com/aqerd/filmbot)
+[![CVbuilder](https://github-readme-stats.vercel.app/api/pin/?username=aqerd&repo=CVbuilder&title_color=00f5d3&text_color=ffffff&icon_color=00f5d3&border_color=00f5d3&bg_color=050505&border_radius=10)](https://github.com/aqerd/CVbuilder)
 
 ### My socials
 <div id="badges">
@@ -48,9 +53,9 @@
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-black.svg?style=for-the-badge&logo=markdown&logoColor=white)
 <!-- ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) -->
 <!-- ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) -->
-<!-- ![Markdown](https://img.shields.io/badge/markdown-black.svg?style=for-the-badge&logo=markdown&logoColor=white) -->
 <!-- ![Batch](https://img.shields.io/badge/Windows%20Terminal-0078D6.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) -->
 <!-- ![LaTeX](https://img.shields.io/badge/latex-008080.svg?style=for-the-badge&logo=latex&logoColor=white) -->
 
