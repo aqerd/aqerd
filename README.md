@@ -5,7 +5,7 @@
 - 🪩 Developer & Designer, 19 years old
 - 🏫 Studying at Institute of Mathematics and Computer Science at Ural Federal University (IMCS UrFU)
 - 💼 Working at Fermatix AI as Prompt Engineer
-- Speaking Russian and English
+- Speaking Russian and English and currently studying Dutch
 
 ### Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aqerd&show_icons=true&number_format=long&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&title_color=00f5d3&text_color=ffffff&icon_color=00f5d3&border_color=fff&bg_color=111&border_radius=12)
