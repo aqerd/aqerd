@@ -8,28 +8,18 @@
 - Speaking Russian and English
 
 ### Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aqerd&show_icons=true&number_format=long&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&title_color=00f5d3&text_color=ffffff&icon_color=00f5d3&border_color=00f5d3&bg_color=050505&border_radius=10)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aqerd&layout=compact&langs_count=20&title_color=00f5d3&text_color=ffffff&icon_color=00f5d3&border_color=00f5d3&bg_color=050505&border_radius=10)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aqerd&show_icons=true&number_format=long&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&title_color=00f5d3&text_color=ffffff&icon_color=00f5d3&border_color=fff&bg_color=111&border_radius=12)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aqerd&layout=compact&langs_count=20&title_color=00f5d3&text_color=ffffff&icon_color=00f5d3&border_color=fff&bg_color=111&border_radius=12)
 
 ### Repositories
-[![Filmbot](https://github-readme-stats.vercel.app/api/pin/?username=aqerd&repo=filmbot&title_color=00f5d3&text_color=ffffff&icon_color=00f5d3&border_color=00f5d3&bg_color=050505&border_radius=10)](https://github.com/aqerd/filmbot)
-[![CVbuilder](https://github-readme-stats.vercel.app/api/pin/?username=aqerd&repo=CVbuilder&title_color=00f5d3&text_color=ffffff&icon_color=00f5d3&border_color=00f5d3&bg_color=050505&border_radius=10)](https://github.com/aqerd/CVbuilder)
+[![Filmbot](https://github-readme-stats.vercel.app/api/pin/?username=aqerd&repo=filmbot&title_color=00f5d3&text_color=ffffff&icon_color=00f5d3&border_color=fff&bg_color=111&border_radius=12&hide=html,css)](https://github.com/aqerd/filmbot)
+[![CVbuilder](https://github-readme-stats.vercel.app/api/pin/?username=aqerd&repo=CVbuilder&title_color=00f5d3&text_color=ffffff&icon_color=00f5d3&border_color=fff&bg_color=111&border_radius=12&hide=html,css)](https://github.com/aqerd/CVbuilder)
 
 ### My socials
-<div id="badges">
-  <a href="https://t.me/ruslansuleymanov">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-  <a href="https://www.behance.net/ruslansuleymanov">
-    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/mwlite/in/ruslan-suleymanov">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.figma.com/@aqerd">
-    <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge"/>
-  </a>
-</div>
+[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ruslansuleymanov)
+[![Behance Badge](https://img.shields.io/badge/Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/ruslansuleymanov)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruslan-suleymanov/)
+[![Figma Badge](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/@aqerd)
 
 <h3>Languages</h3>
 
