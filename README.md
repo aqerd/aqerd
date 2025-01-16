@@ -12,9 +12,9 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aqerd&layout=compact&langs_count=20&title_color=00f5d3&text_color=ffffff&icon_color=00f5d3&border_color=fff&bg_color=111&border_radius=12)
 
 ### Repositories
-[![Filmbot](https://github-readme-stats.vercel.app/api/pin/?username=aqerd&repo=filmbot&title_color=00f5d3&text_color=ffffff&icon_color=00f5d3&border_color=fff&bg_color=111&border_radius=12&hide=html,css)](https://github.com/aqerd/filmbot)
-[![CVbuilder](https://github-readme-stats.vercel.app/api/pin/?username=aqerd&repo=CVbuilder&title_color=00f5d3&text_color=ffffff&icon_color=00f5d3&border_color=fff&bg_color=111&border_radius=12&hide=html,css)](https://github.com/aqerd/CVbuilder)
-[![LC3VM](https://github-readme-stats.vercel.app/api/pin/?username=aqerd&repo=LC3VM&title_color=00f5d3&text_color=ffffff&icon_color=00f5d3&border_color=fff&bg_color=111&border_radius=12&hide=html,css)](https://github.com/aqerd/LC3VM)
+[![Filmbot](https://github-readme-stats.vercel.app/api/pin/?username=aqerd&repo=filmbot&title_color=00f5d3&hide=css,html,makefile&text_color=ffffff&icon_color=00f5d3&border_color=fff&bg_color=111&border_radius=12&hide=html,css)](https://github.com/aqerd/filmbot)
+[![CVbuilder](https://github-readme-stats.vercel.app/api/pin/?username=aqerd&repo=CVbuilder&title_color=00f5d3&hide=css,html,makefile&text_color=ffffff&icon_color=00f5d3&border_color=fff&bg_color=111&border_radius=12&hide=html,css)](https://github.com/aqerd/CVbuilder)
+[![LC3VM](https://github-readme-stats.vercel.app/api/pin/?username=aqerd&repo=LC3VM&title_color=00f5d3&hide=css,html,makefile&text_color=ffffff&icon_color=00f5d3&border_color=fff&bg_color=111&border_radius=12&hide=html,css)](https://github.com/aqerd/LC3VM)
 
 ### My socials
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ruslansuleymanov)
