@@ -11,10 +11,12 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aqerd&show_icons=true&number_format=long&show=reviews,prs_merged_percentage&include_all_commits=true&title_color=blue&text_color=ffffff&icon_color=blue&border_color=0000FF&bg_color=111&border_radius=12&hide=contribs,a)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aqerd&layout=compact&langs_count=20&title_color=blue&text_color=ffffff&icon_color=blue&border_color=0000FF&bg_color=111&border_radius=12&hide=makefile,batchfile)
 
+<!--
 ### Repositories
 [![Filmbot](https://github-readme-stats.vercel.app/api/pin/?username=aqerd&repo=filmbot&title_color=blue&hide=css,html,makefile&text_color=ffffff&icon_color=blue&border_color=0000FF&bg_color=111&border_radius=12&description_lines_count=2)](https://github.com/aqerd/filmbot)
 [![CVbuilder](https://github-readme-stats.vercel.app/api/pin/?username=aqerd&repo=CVbuilder&title_color=blue&hide=css,html,makefile&text_color=ffffff&icon_color=blue&border_color=0000FF&bg_color=111&border_radius=12&description_lines_count=2)](https://github.com/aqerd/CVbuilder)
 [![LC3VM](https://github-readme-stats.vercel.app/api/pin/?username=aqerd&repo=LC3VM&title_color=blue&hide=css,html,makefile&text_color=ffffff&icon_color=blue&border_color=0000FF&bg_color=111&border_radius=12&description_lines_count=2)](https://github.com/aqerd/LC3VM)
+-->
 
 ### My socials
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ruslansuleymanov)
