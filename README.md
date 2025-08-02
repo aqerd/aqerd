@@ -1,39 +1,57 @@
 # Hi, I'm Ruslan
 
-### About me
+<strong>About me</strong>
 
-- 🪩 Developer & Designer, 19 years old
-- 🏫 Studying at Institute of Mathematics and Computer Science at Ural Federal University (IMCS UrFU)
-- 💼 Working at Fermatix AI as Prompt Engineer
-- Speaking Russian and English and currently studying Dutch
+🪩 Developer & Designer, 19 years old;
+🏫 Studying at Institute of Mathematics and Computer Science at Ural Federal University (IMCS UrFU);
+💼 Working at Fermatix AI as Software Engineer;
+🌍 Speaking Russian and English and currently studying Dutch.
 
-### Stats
+<details>
+    <summary><strong>Stats</strong></summary>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aqerd&show_icons=true&number_format=long&show=reviews,prs_merged_percentage&include_all_commits=true&title_color=blue&text_color=ffffff&icon_color=blue&border_color=0000FF&bg_color=111&border_radius=12&hide=contribs,a)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aqerd&layout=compact&langs_count=20&title_color=blue&text_color=ffffff&icon_color=blue&border_color=0000FF&bg_color=111&border_radius=12&hide=makefile,batchfile)
 
-<!--
-### Repositories
+</details>
+
+
+<details>
+    <summary><strong>Projects</strong></summary>
+
 [![Filmbot](https://github-readme-stats.vercel.app/api/pin/?username=aqerd&repo=filmbot&title_color=blue&hide=css,html,makefile&text_color=ffffff&icon_color=blue&border_color=0000FF&bg_color=111&border_radius=12&description_lines_count=2)](https://github.com/aqerd/filmbot)
 [![CVbuilder](https://github-readme-stats.vercel.app/api/pin/?username=aqerd&repo=CVbuilder&title_color=blue&hide=css,html,makefile&text_color=ffffff&icon_color=blue&border_color=0000FF&bg_color=111&border_radius=12&description_lines_count=2)](https://github.com/aqerd/CVbuilder)
 [![LC3VM](https://github-readme-stats.vercel.app/api/pin/?username=aqerd&repo=LC3VM&title_color=blue&hide=css,html,makefile&text_color=ffffff&icon_color=blue&border_color=0000FF&bg_color=111&border_radius=12&description_lines_count=2)](https://github.com/aqerd/LC3VM)
--->
 
-### My socials
+</details>
+
+<details>
+    <summary><strong>Socials</strong></summary>
+
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ruslansuleymanov)
 [![Behance Badge](https://img.shields.io/badge/Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/ruslansuleymanov)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruslan-suleymanov/)
 [![Figma Badge](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/@aqerd)
 
-<h3>Languages</h3>
+</details>
 
-![C](https://img.shields.io/badge/c-3848AA.svg?style=for-the-badge&logo=c&logoColor=white)
+<details>
+    <summary><strong>Languages</strong></summary>
+
 ![C++](https://img.shields.io/badge/c++-3937AA.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-ff0000.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-FFDD4E?style=for-the-badge&logo=python&logoColor=black)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+<!--
+![C](https://img.shields.io/badge/c-3848AA.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F0DB4F)
+-->
 
-<h3>Frameworks & Other</h3>
+</details>
+
+<details>
+    <summary><strong>Stack</strong></summary>
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -54,4 +72,6 @@
 ![Shell](https://img.shields.io/badge/shell-293036.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![CMD](https://img.shields.io/badge/Windows%20Terminal-0078D6.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
-### [Other links](https://aqerd.bio.link)
+</details>
+
+<strong>[Other links](https://aqerd.bio.link)</strong>
