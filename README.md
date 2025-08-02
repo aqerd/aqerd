@@ -2,9 +2,9 @@
 
 <strong>About me</strong>
 
-🪩 Developer & Designer, 19 years old;
-🏫 Studying at Institute of Mathematics and Computer Science at Ural Federal University (IMCS UrFU);
-💼 Working at Fermatix AI as Software Engineer;
+🪩 Developer & Designer, 19 years old; \
+🏫 Studying at Institute of Mathematics and Computer Science at Ural Federal University (IMCS UrFU); \
+💼 Working at Fermatix AI as Software Engineer; \
 🌍 Speaking Russian and English and currently studying Dutch.
 
 <details>
@@ -19,8 +19,11 @@
 <details>
     <summary><strong>Projects</strong></summary>
 
-[![Filmbot](https://github-readme-stats.vercel.app/api/pin/?username=aqerd&repo=filmbot&title_color=blue&hide=css,html,makefile&text_color=ffffff&icon_color=blue&border_color=0000FF&bg_color=111&border_radius=12&description_lines_count=2)](https://github.com/aqerd/filmbot)
+
+[![Andes](https://github-readme-stats.vercel.app/api/pin/?username=aqerd&repo=andes&title_color=blue&hide=css,html,makefile&text_color=ffffff&icon_color=blue&border_color=0000FF&bg_color=111&border_radius=12&description_lines_count=2)](https://github.com/aqerd/andes)
 [![CVbuilder](https://github-readme-stats.vercel.app/api/pin/?username=aqerd&repo=CVbuilder&title_color=blue&hide=css,html,makefile&text_color=ffffff&icon_color=blue&border_color=0000FF&bg_color=111&border_radius=12&description_lines_count=2)](https://github.com/aqerd/CVbuilder)
+[![Filmbot](https://github-readme-stats.vercel.app/api/pin/?username=aqerd&repo=filmbot&title_color=blue&hide=css,html,makefile&text_color=ffffff&icon_color=blue&border_color=0000FF&bg_color=111&border_radius=12&description_lines_count=2)](https://github.com/aqerd/filmbot)
+[![Robots](https://github-readme-stats.vercel.app/api/pin/?username=aqerd&repo=robots&title_color=blue&hide=css,html,makefile&text_color=ffffff&icon_color=blue&border_color=0000FF&bg_color=111&border_radius=12&description_lines_count=2)](https://github.com/aqerd/robots)
 [![LC3VM](https://github-readme-stats.vercel.app/api/pin/?username=aqerd&repo=LC3VM&title_color=blue&hide=css,html,makefile&text_color=ffffff&icon_color=blue&border_color=0000FF&bg_color=111&border_radius=12&description_lines_count=2)](https://github.com/aqerd/LC3VM)
 
 </details>
