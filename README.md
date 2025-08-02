@@ -2,7 +2,7 @@
 
 <strong>About me</strong>
 
-🪩 Developer & Designer, 19 years old; \
+🪩 Software Engineer and Web-Designer, 19 years old; \
 🏫 Studying at Institute of Mathematics and Computer Science at Ural Federal University (IMCS UrFU); \
 💼 Working at Fermatix AI as Software Engineer; \
 🌍 Speaking Russian and English and currently studying Dutch.
